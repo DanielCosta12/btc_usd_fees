@@ -61,6 +61,8 @@ async def send_update():
             await bot.send_message(chat_id=CHAT_ID, text=message)
         else:
             await bot.send_message(chat_id=CHAT_ID, text="Erro ao obter dados das APIs.")
+        await asyncio.sleep(3600)
+
 
 if __name__ == "__main__":
     asyncio.run(send_update())
