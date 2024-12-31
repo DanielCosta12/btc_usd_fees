@@ -1,5 +1,6 @@
 # BTC-USD + Fees
 ![Bot Telegram](./img/imgbot.png)
+![Gif Telegram](./img/gifbot.gif)
 
 Este projeto consiste em um bot do Telegram que fornece atualizações periódicas sobre o preço do Bitcoin (BTC) e as taxas de transação de Bitcoin em diferentes intervalos de tempo, consultando APIs de taxas da mempool.
 
